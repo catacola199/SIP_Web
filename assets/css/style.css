@@ -133,6 +133,15 @@ h1, h2, h3, h4, h5, h6 {
   }
 
 /*--------------------------------------------------------------
+# Preloader
+--------------------------------------------------------------*/
+.img-produk{
+  transition: all ease-in-out .5s;
+}
+.img-produk:hover{
+  transform: translateY(-.5rem);
+}
+/*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
  
@@ -560,6 +569,19 @@ section {
   .clients img {
     max-width: 40%;
   }
+}
+
+.card-client-border{
+  border-left-width: thick;
+  border-left-color: #00b2df;
+  border-bottom: none;
+  border-top: none;
+  border-right: none;
+  transition: all ease-in-out .5s;
+}
+
+.card-client-border:hover{
+  transform: translateY(-.5rem);
 }
 
 /*--------------------------------------------------------------
