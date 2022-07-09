@@ -111,15 +111,40 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
+# scroll
+--------------------------------------------------------------*/
+
+.scroll-header{
+	box-shadow: 0 1px 4px rgba(61, 63, 62, 0.1);
+  }
+  
+::-webkit-scrollbar{
+	width: .6rem;
+	background: hsl(180, 1%, 83%);
+  }
+  
+  ::-webkit-scrollbar-thumb{
+	background: hsl(150, 7%, 21%);
+	border-radius: .5rem;
+  }
+
+  html{
+	scroll-behavior: smooth;
+  }
+
+/*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+ 
 #header {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
 }
 #header.header-scrolled, #header.header-inner-pages {
-  background: rgba(0, 178, 223, 0.9);
+  background: rgba(0, 178, 223, 1);
+  box-shadow: -2px 0 4px hsla(150, 24%, 15%, .1);
+
 }
 #header .logo {
   font-size: 30px;
@@ -175,7 +200,15 @@ h1, h2, h3, h4, h5, h6 {
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   /**
   * color warna nav */
-  color: #000000;
+  color: #e4e4e4;
+}
+.navbar .active::after{
+  content: '';
+  position: absolute;
+  bottom: -.1rem;
+  width: 40%;
+  height: 2px;
+  background-color: #e4e4e4;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
   padding: 8px 20px;
@@ -983,6 +1016,12 @@ section {
   font-weight: 700;
   margin-bottom: 5px;
   font-size: 20px;
+  color: #00b2df;
+}
+.team .member h2 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 2.5rem;
   color: #00b2df;
 }
 .team .member span {
