@@ -1,0 +1,47 @@
+.bg-auth {
+	height: 100vh;
+	width: 100vw;
+	position: relative;
+	background-size: cover;
+	background-position: 50% 50%;
+	background-image: url("../img/auth-image.jpg");
+}
+
+.overlay-auth {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(0, 0, 0, 0.65);
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.auth-card {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-moz-transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
+.scroll-header{
+	box-shadow: 0 1px 4px hsla(152, 4%, 15%, .1);
+  }
+  
+::-webkit-scrollbar{
+	width: .6rem;
+	background: hsl(150, 1%, 71%);
+  }
+  
+  ::-webkit-scrollbar-thumb{
+	background: hsl(152, 4%, 29%);
+	border-radius: .5rem;
+  }
+
+  html{
+	scroll-behavior: smooth;
+  } 
+  
