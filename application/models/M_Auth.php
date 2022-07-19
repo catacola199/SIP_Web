@@ -54,15 +54,15 @@ class M_Auth extends CI_Model
                     redirect('home');
                 } else {
                     $this->session->set_flashdata('authmsg','Kesalahan pada username atau password, mohon dicek kembali!');
-                    redirect(baseurl());
+                    redirect('login');
                 }
             } else {
                 $this->session->set_flashdata('authmsg', 'Akun Ini Belum Aktif, Silakan Hubungi Pihak Administrator!');
-                redirect(baseurl());
+                redirect('login');
             }
         } else {
             $this->session->set_flashdata('authmsg', 'Akun Belum Terdaftar!');
-            redirect(baseurl());
+            redirect('login');
         }
     }
 
