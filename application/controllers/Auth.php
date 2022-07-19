@@ -33,7 +33,7 @@ class Auth extends CI_Controller
         $this->form_validation->set_rules($validation);
         if ($this->form_validation->run() == false) {
             $data = [
-                'title' => 'Login Absensi',
+                'title' => 'Login Admin Sri Intan Perkasa',
                 'dataapp' => $this->get_datasetupapp
             ];
             $this->load->view('layout/header', $data);
