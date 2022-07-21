@@ -140,12 +140,12 @@
     <!-- ======= Visi Misi Section ======= -->
     <section id="visi-misi"  class="team section-bg">
       <div class="container-fluid" data-aos="fade-up">
-        <div class="section-title" style="padding-bottom:0;">
+        <div class="section-title">
           <h2>Visi Misi</h2>
         </div>
         <div class="row p-4">
           <div class="col-lg-6">
-            <div class="member d-flex align-items-start mt-4" data-aos="zoom-in" data-aos-delay="100">
+            <div class="member d-flex align-items-start just" data-aos="zoom-in" data-aos-delay="100">
               <div><h2>01</h2></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
@@ -155,7 +155,7 @@
             </div>
           </div>
 
-          <div class="col-lg-6 mt-4">
+          <div class="col-lg-6">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
               <div><h2>02</h4></div>
               <div class="member-info">
@@ -178,7 +178,7 @@
           </div>
 
           <div class="col-lg-6 mt-4">
-            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
               <div><h2>04</h2></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
@@ -189,7 +189,7 @@
           </div>
 
           <div class="col-lg-6 mt-4">
-            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="500">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
               <div><h2>05</h2></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
