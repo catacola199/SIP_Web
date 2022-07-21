@@ -10,8 +10,9 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="<?= base_url('assets/front/img/putra perkasa-2-1477x591.png'); ?>" rel="icon" />
-  <link href="<?= base_url('assets/front/img/putra perkasa-2-1477x591.png'); ?>" rel="apple-touch-icon" />
+  <link href="<?= base_url('assets/front/img/logo_only.png'); ?>" rel="icon" />
+  <link href="<?= base_url('assets/front/img/logo_only.png'); ?>" rel="apple-touch-icon" />
+
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -35,7 +36,7 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
       <!-- Uncomment below if you prefer to use an image logo -->
-      <a href="<?= base_url()?>" class="logo me-auto"><img src="<?= base_url('assets/front/img/putra perkasa-2-1477x591.png'); ?>" alt="" class="img-fluid"></a>
+      <a href="<?= base_url()?>" class="logo me-auto"><img src="<?= base_url('assets/front/img/logo_only.png'); ?>" alt="" class="img-fluid"></a>
 
       <nav id="navbar" class="navbar">
         <ul>
@@ -239,7 +240,7 @@
           </div>
           <div class="card col-5 p-1 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="700">
             <div class="card-body">
-              RS Citra Harapan - Bekasi
+              RS Bunda Citra Harapan - Bekasi
             </div>
           </div>   
           <div class="card col-5 p-1 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="600">
@@ -275,10 +276,30 @@
           <h2>Product</h2>
           <p>Berikut adalah beberapa produk ungulan dari PT SRI INTAN PERKASA yang sudah terverifikasi oleh <br> Lembaga Kebijakan Pengadaan Barang Jasa Pemerintah</p>
         </div>
-
+        <!-- PRODUK 1-->
         <div class="row d-flex justify-content-center p-2 " style="gap: 1rem;">
           <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/PRS_500_E.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">PRS 500 E PROSLIDE</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501027458</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+          <!-- PRODUK 2-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="assets/img/produk/PROSLIDE_32_SR.jpg" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">PROSLIDE 32 SR</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501120775</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+          <!-- PRODUK 3-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/EXM40.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
             <div class="card-body">
               <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
@@ -286,9 +307,119 @@
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
+          <!-- PRODUK 4-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/SMART_3D.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">SMART 3D</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 20601220003</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+          <!-- PRODUK 5-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="assets/img/produk/PROSLIDE_32B.jpg" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">PROSLIDE 32B</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501121865</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+          <!-- PRODUK 6-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="assets/img/produk/MARS_1717.jpg" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">MARS 1717</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501024999</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+          <!-- PRODUK 7-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/MARS_1417.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">MARS_1417</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501024999</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+          <!-- PRODUK 8-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/PLX_101C.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">PLX 101C</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501024999</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+          <!-- PRODUK 9-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/EST_MEDCARE.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">EST MEDCARE</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501024999</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+          <!-- PRODUK 10-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/XRAY_GRIDS.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">XRAY GRIDS</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501024999</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+          <!-- PRODUK 11-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/PROTECTIVE_CAP.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">PROTECTIVE CAP</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501024999</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+           <!-- PRODUK 12-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/LEAD_APRON_PA_SERIES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">LEAD APRON PA SERIES/h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501024999</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+           <!-- PRODUK 13-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/THERMOLUMINESCENT_DOSIMETER_BARC.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">THERMOLUMINESCENT DOSIMETER BARC</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501024999</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+           <!-- PRODUK 14-->
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/XRAY_PROTECTIVE_GLASSES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">XRAY PROTECTIVE GLASSES</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501024999</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
 
           <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/XRAY_PROTECTIVE_GLASSES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
             <div class="card-body">
               <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
@@ -298,7 +429,17 @@
           </div>
           
           <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/XRAY_PROTECTIVE_GLASSES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <div class="card-body">
+              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
+              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
+              <p class="card-text">AKL : 21501024999</p>
+              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
+            </div>
+          </div>
+
+          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/XRAY_PROTECTIVE_GLASSES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
             <div class="card-body">
               <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
@@ -308,116 +449,7 @@
           </div>
           
           <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-          
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-          
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-          
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-          
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/EXM40 - Copy.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/XRAY_PROTECTIVE_GLASSES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
             <div class="card-body">
               <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
