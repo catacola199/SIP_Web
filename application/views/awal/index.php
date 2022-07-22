@@ -62,11 +62,11 @@
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
           <h1>Better Responbility, Better Service and Better Partner</h1>
-          <h2>kami perusahaan PT.Sri Intan Perkasa berdiri sejak tahun 1994, menjadi penyedia produk-produk radiologi untuk klinik kesehatan, rumah sakit, klinik kedokteran gigi, dan hal-hal yang berkaitan dengan kedokteran radiologi.&nbsp;</h2>
-          <h2>Alat kesehatan yang terpercaya dalam memberikan pelayanan, kenyamanan, kemudahan dan kualitas produk kepada seluruh klien kami.</h2>
-          <h2>Mari menjadi partner kami dan kami siap melayani anda dengan sepenuh hati.</h2>
+          <h2>Kami perusahaan PT.Sri Intan Perkasa berdiri sejak tahun 1994, menjadi penyedia Alat kesehatan yang terpercaya dalam memberikan pelayanan, kenyamanan, kemudahan dan kualitas produk kepada seluruh klien kami.&nbsp;</h2>
+          <h2>Mari menjadi partner kami dan kami siap melayani anda dengan sepenuh hati </h2>
+          
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            <a href="#about" class="btn-get-started scrollto">Read more</a>
             <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
         </div>
