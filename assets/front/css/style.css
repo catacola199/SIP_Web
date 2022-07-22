@@ -400,7 +400,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #hero h2 {
   color: rgba(255, 255, 255, 0.6);
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   font-size: 24px;
 }
 #hero .btn-get-started {
