@@ -45,7 +45,7 @@
           <li><a class="nav-link scrollto" href="#client">Client</a></li>
           <li><a class="nav-link scrollto" href="#product">Product</a></li>
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li><a class="nav-link scrollto" href="#portfolio">Gallery</a></li>
+          <li><a class="nav-link scrollto" href="#Gallery">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <!-- <li><a class="getstarted scrollto" href="login/index.html">Get Started</a></li> -->
         </ul>
@@ -102,37 +102,63 @@
     </section><!-- End Connection Section -->
 
     <!-- ======= About Us Section ======= -->
-    <section id="about" class="about">
+    <section id="about" class="about section-bg">
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>About Us</h2>
-          <h3>PT. SRI INTAN PERKASA didirikan pada tahun 1994 di Bekasi Barat Provinsi Jawa Barat Indonesia yang memberikan serta menjaga kepercayaan, kenyamanan, kemudahan semua klien kami
-          yang menjalankan X-Ray Film dan X-Ray Accessories.</h3>
+          <h3>Kami perusahaan PT.Sri Intan Perkasa berdiri sejak tahun 1994, di Jakarta, Indonesia. Kami telah menjadi raksasa sebagai penyedia alat kesehatan yang sangat terpecaya dalam memberikan pelayanan, kenyamanan, kemudahan dan kualitas produk terbaik kepada seluruh klien kami.</h3>
         </div>
         <div class="row content">
-          <div class="col-lg-6">
+          <div class="col-lg-8">
             <p>
             PT.Sri Intan Perkasa mempunyai beberapa produk yaitu :
             </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i><strong>Mesin X-ray</strong></li>
-              <li><i class="ri-check-double-line"></i><strong>CT-Scan</strong></li>
-              <li><i class="ri-check-double-line"></i><strong>Dental X-ray</strong></li>
-              <li><i class="ri-check-double-line"></i><strong>Radiasi Tester</strong></li>
-              <li><i class="ri-check-double-line"></i><strong>dan juga berencana untuk kategori laboratorium dan alat penunjang medis lainnya</strong></li>
-            </ul>
+            <div class="row content">
+              <div class="col-md-4">
+                <ul>
+                  <li><i class="ri-check-double-line"></i> alat radiologi mobile</li>
+                  <li><i class="ri-check-double-line"></i> alat radiologi stationery</li>
+                  <li><i class="ri-check-double-line"></i> dental xray</li>
+                  <li><i class="ri-check-double-line"></i> IPAL</li>
+                  <li><i class="ri-check-double-line"></i> Incinerator</li>
+                  <li><i class="ri-check-double-line"></i> incubator</li>
+                  <li><i class="ri-check-double-line"></i> dan sebagainya</li>
+                  
+                </lu>
+              </div>
+              <div class="col-md-4">
+                <ul>
+                  <li><i class="ri-check-double-line"></i> accessories timbal</li>
+                  <li><i class="ri-check-double-line"></i> hospital furniture</li>
+                  <li><i class="ri-check-double-line"></i> CT-Scan</li>
+                  <li><i class="ri-check-double-line"></i> Oxygen</li>
+                  <li><i class="ri-check-double-line"></i> Ventilator x-ray</li>
+                  <li><i class="ri-check-double-line"></i> Cairan x-ray</li>
+
+                </lu>
+              </div>
+              <div class="col-md-4">
+                <ul>
+                  <li><i class="ri-check-double-line"></i> CR</li>
+                  <li><i class="ri-check-double-line"></i> Laboratorium</li>
+                  <li><i class="ri-check-double-line"></i> DR Film</li>
+                  <li><i class="ri-check-double-line"></i> uji kesesuaian</li>
+                  <li><i class="ri-check-double-line"></i> Karoseri bus/Ambulance</li>
+                  <li><i class="ri-check-double-line"></i> kalibrasi</li>
+                </lu>
+              </div>
+            </div>
           </div>
-          <div class="col-lg-6 pt-4 pt-lg-0">
+          <div class="col-lg-4 pt-4 pt-lg-0">
             <p>
-              Terhadap seluruh barang PT.Sri Intan Perkasa, kami sangat memilih secara ketat dan dengan wajib harus dilengkapi dengan beberapa dokumen seperti :
+            Kami telah terverifikasi oleh badan nasional terkait mutu perusahaan seperti :
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i><strong> ISO 9001</strong></li>
-              <li><i class="ri-check-double-line"></i><strong> ISO 14001</strong></li> 
-              <li><i class="ri-check-double-line"></i><strong> ISO 45001</strong></li>
-              <li><i class="ri-check-double-line"></i><strong> IEC </strong></li>
-              <li><i class="ri-check-double-line"></i><strong> EC dan juga Report Test</strong></li>
-            </ul>
+              <li><i class="ri-check-double-line"></i> ISO 9001</li>
+              <li><i class="ri-check-double-line"></i> ISO 14001</li>
+              <li><i class="ri-check-double-line"></i> ISO 45001</li>
+              <li><i class="ri-check-double-line"></i> KAN ISO 17025</li>
+            </lu>
             <!-- <a href="#" class="btn-learn-more">Learn More</a> -->
           </div>
         </div>
@@ -141,7 +167,7 @@
     </section><!-- End About Us Section -->
 
     <!-- ======= Visi Misi Section ======= -->
-    <section id="visi-misi"  class="team section-bg">
+    <section id="visi-misi"  class="team ">
       <div class="container-fluid" data-aos="fade-up">
         <div class="section-title">
           <h2>Visi Misi</h2>
@@ -152,7 +178,7 @@
               <div><h2>01</h2></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
-                  <h5>Menetapkan dan mengesahkan mutu yang isinya mencakup apa yang dipersyaratkan oleh ISO 9000:2015.</h5> 
+                  <h5>Menetapkan, mengimplementasikan dan mengesahkan mutu yang mencakup seluruh persyaratan dari ISO 9001, ISO 14001, ISO 45001 dan KAN ISO 17025.</h5> 
                 </div>
               </div>
             </div>
@@ -163,7 +189,7 @@
               <div><h2>02</h4></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
-                  <h5>Mengkomunikasikan pentinganya memenuhi persyaratan kebutuhan, peraturan perundangan dan persyaratan lainnya dibidang manajemen mutu.</h5>
+                  <h5>Memberikan pelayanan, kenyamanan dan kecepatan dalam pelayanan dan kualitas produk terbaik untuk seluruh klien/costumer PT.Sri Intan Perkasa.</h5>
                 </div>
               </div>
             </div>
@@ -174,7 +200,7 @@
               <div><h2>03</h2></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
-                  <h5>Memastikan sasaran mutu atau target telah ditetapkan pada semua bagian yang relevan dalam perusahaan.</h5>
+                  <h5>Menjadi penyedia alat kesehatan yang tersebar dan terlengkap di Indonesia.</h5>
                 </div>
               </div>
             </div>
@@ -185,7 +211,7 @@
               <div><h2>04</h2></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
-                  <h5>Memastikan setiap resiko dan peluang telah ditetapkan dan dikendaikan.</h5>
+                  <h5>Mengkomunikasikan dan mengedukasikan terhadap pentingnya untuk memenuhi persyaratan di dalam peraturan perundangan, peraturan dibidang mutu maupun persyaratan peraturan dibilang lainnya.</h5>
                 </div>
               </div>
             </div>
@@ -196,7 +222,18 @@
               <div><h2>05</h2></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
-                  <h5>Melakukan tinjauan manajemen dan menyediakan sumber daya yang diperlukan.</h5>
+                  <h5>Memastikan kesiapan dan persiapan untuk menghadapi setiap resiko dan peluang.</h5>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+              <div><h2>06</h2></div>
+              <div class="member-info">
+                <div class="rata-kiri-kanan">
+                  <h5>Menjadi persuahaan yang turut ikut aktif dalam melayani masyarakat meningkatkan standaritas personil internal maupun membangun negara.</h5>
                 </div>
               </div>
             </div>
@@ -205,6 +242,49 @@
         </div>
       </div>
     </section><!-- End Visi Misi Section -->
+
+    <!-- ======= Why Us Section ======= -->
+    <section id="services" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Why Us</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon" ><i class="bx bxl-dribbble"></i></div>
+                <p id="why" >Menawarkan harga barang yang terjangkau</p>              
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-file"></i></div>
+              <p id="why">Memiliki tanggung jawab yang tinggi terhadap kualitas barang.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <p id="why">Pelayanan yang tinggi terhadap customer jasa dan produk.</p>
+            </div>
+          </div>
+
+          <div class="col-xl-3 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="400">
+            <div class="icon-box">
+              <div class="icon"><i class="bx bx-layer"></i></div>
+              <p id="why">PT. Sri Intan Perkasa dilengkapi Dokumen Nasional penting seperti SIUP, TDP, NPWP, NIB, API, dan IPAK</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Why Us Section -->
     
      <!-- ======= Client Section ======= -->
      <section id="client" class="services ">
@@ -271,6 +351,7 @@
       </div>
     </section><!-- End Client Section -->
 
+     <!-- ======= Product Section ======= -->
     <section id="product" class="team section-bg">
       <div class="container" data-aos="fade-up">
 
@@ -291,7 +372,7 @@
           </div>
           <!-- PRODUK 2-->
           <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="assets/img/produk/PROSLIDE_32_SR.jpg" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/PROSLIDE_32_SR.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
             <div class="card-body">
               <h5 class="card-title">PROSLIDE 32 SR</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
@@ -321,7 +402,7 @@
           </div>
           <!-- PRODUK 5-->
           <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="assets/img/produk/PROSLIDE_32B.jpg" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/PROSLIDE_32B.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
             <div class="card-body">
               <h5 class="card-title">PROSLIDE 32B</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
@@ -331,7 +412,7 @@
           </div>
           <!-- PRODUK 6-->
           <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="assets/img/produk/MARS_1717.jpg" class="card-img-top mt-3" style="border-radius: .75rem;">
+            <img src="<?= base_url('assets/front/img/produk/MARS_1717.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
             <div class="card-body">
               <h5 class="card-title">MARS 1717</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
@@ -393,7 +474,7 @@
           <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
             <img src="<?= base_url('assets/front/img/produk/LEAD_APRON_PA_SERIES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
             <div class="card-body">
-              <h5 class="card-title">LEAD APRON PA SERIES/h5>
+              <h5 class="card-title">LEAD APRON PA SERIES</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
@@ -420,51 +501,12 @@
             </div>
           </div>
 
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/XRAY_PROTECTIVE_GLASSES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-          
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/XRAY_PROTECTIVE_GLASSES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/XRAY_PROTECTIVE_GLASSES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-          
-          <div class="card col-md-3 col-lg-2 border-0"  data-aos="zoom-in" data-aos-delay="100" style="border-radius: .75rem;">
-            <img src="<?= base_url('assets/front/img/produk/XRAY_PROTECTIVE_GLASSES.jpg');?>" class="card-img-top mt-3" style="border-radius: .75rem;">
-            <div class="card-body">
-              <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
-              <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
-              <p class="card-text">AKL : 21501024999</p>
-              <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
-            </div>
-          </div>
-
+      
         </div>
       </div>
-    </section><!-- End Team Section -->
+    </section><!-- End Product Section -->
 
-    <section id="team" class="team">
+    <section id="team" class="team ">
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>Team Jasa</h2>
@@ -544,8 +586,8 @@
       </div>
     </section><!-- End Team Section -->
 
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
+    <!-- ======= Gallery Section ======= -->
+    <section id="Gallery" class="portfolio section-bg">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -555,157 +597,221 @@
 
         <ul id="portfolio-flters" class="d-flex justify-content-center" data-aos="fade-up" data-aos-delay="100">
           <li data-filter="*" class="filter-active">All</li>
-          <li data-filter=".filter-app">App</li>
-          <li data-filter=".filter-card">Card</li>
-          <li data-filter=".filter-web">Web</li>
+          <li data-filter=".filter-uji">Uji Kesesuaian</li>
+          <li data-filter=".filter-futsal">Futsal</li>
+          <li data-filter=".filter-bukber">bukber</li>
+          <li data-filter=".filter-team">team</li>
         </ul>
 
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/portfolio/portfolio-1.jpg');?>" class="img-fluid" alt=""></div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-uji">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/ujikesesuaian/Ujikesesuaian_1.jpg');?>" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>App 1</h4>
-              <p>App</p>
-              <a href="<?= base_url('assets/front/img/portfolio/portfolio-1.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
+              <h4>Uji Kesesuaian 1</h4>
+              <p>Mengecek</p>
+              <a href="<?= base_url('assets/front/img/gallery/ujikesesuaian/Ujikesesuaian_1.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 1"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/portfolio/portfolio-2.jpg');?>" class="img-fluid" alt=""></div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-uji">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/ujikesesuaian/Ujikesesuaian_2.jpg');?>" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="<?= base_url('assets/front/img/portfolio/portfolio-2.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+              <h4>Uji Kesesuaian 2</h4>
+              <p>Mengecek</p>
+              <a href="<?= base_url('assets/front/img/gallery/ujikesesuaian/Ujikesesuaian_2.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/portfolio/portfolio-3.jpg');?>" class="img-fluid" alt=""></div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-uji">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/ujikesesuaian/Ujikesesuaian_3.jpg');?>" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>App 2</h4>
-              <p>App</p>
-              <a href="<?= base_url('assets/front/img/portfolio/portfolio-3.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 2"><i class="bx bx-plus"></i></a>
+              <h4>Uji Kesesuaian 3</h4>
+              <p>Mengecek</p>
+              <a href="<?= base_url('assets/front/img/gallery/ujikesesuaian/Ujikesesuaian_3.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/portfolio/portfolio-4.jpg');?>" class="img-fluid" alt=""></div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-uji">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/ujikesesuaian/Ujikesesuaian_4.jpg');?>" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Card 2</h4>
-              <p>Card</p>
-              <a href="<?= base_url('assets/front/img/portfolio/portfolio-4.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
+              <h4>Uji Kesesuaian 4</h4>
+              <p>Mengecek</p>
+              <a href="<?= base_url('assets/front/img/gallery/ujikesesuaian/Ujikesesuaian_4.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/portfolio/portfolio-5.jpg');?>" class="img-fluid" alt=""></div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-uji">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/ujikesesuaian/Ujikesesuaian_5.jpg');?>" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Web 2</h4>
-              <p>Web</p>
-              <a href="<?= base_url('assets/front/img/portfolio/portfolio-5.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
+              <h4>Uji Kesesuaian 5</h4>
+              <p>Mengecek</p>
+              <a href="<?= base_url('assets/front/img/gallery/ujikesesuaian/Ujikesesuaian_5.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/portfolio/portfolio-6.jpg');?>" class="img-fluid" alt=""></div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-futsal">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/futsal/futsal_1.jpg');?>" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>App 3</h4>
-              <p>App</p>
-              <a href="<?= base_url('assets/front/img/portfolio/portfolio-6.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <h4>Futsal 1</h4>
+              <p>Olahraga</p>
+              <a href="<?= base_url('assets/front/img/gallery/futsal/futsal_1.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-md-6 portfolio-item filter-futsal">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/futsal/futsal_2.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Futsal 2</h4>
+              <p>Olahraga</p>
+              <a href="<?= base_url('assets/front/img/gallery/futsal/futsal_2.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/portfolio/portfolio-7.jpg');?>" class="img-fluid" alt=""></div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-futsal">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/futsal/futsal_3.jpg');?>" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Card 1</h4>
-              <p>Card</p>
-              <a href="<?= base_url('assets/front/img/portfolio/portfolio-7.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
+              <h4>Futsal 3</h4>
+              <p>Olahraga</p>
+              <a href="<?= base_url('assets/front/img/gallery/futsal/futsal_3.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/portfolio/portfolio-8.jpg');?>" class="img-fluid" alt=""></div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-futsal">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/futsal/futsal_4.jpg');?>" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Card 3</h4>
-              <p>Card</p>
-              <a href="<?= base_url('assets/front/img/portfolio/portfolio-8.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
+              <h4>Futsal 4</h4>
+              <p>Olahraga</p>
+              <a href="<?= base_url('assets/front/img/gallery/futsal/futsal_4.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/portfolio/portfolio-9.jpg');?>" class="img-fluid" alt=""></div>
+          <div class="col-lg-4 col-md-6 portfolio-item filter-futsal">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/futsal/futsal_5.jpg');?>" class="img-fluid" alt=""></div>
             <div class="portfolio-info">
-              <h4>Web 3</h4>
-              <p>Web</p>
-              <a href="<?= base_url('assets/front/img/portfolio/portfolio-9.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
+              <h4>Futsal 5</h4>
+              <p>Olahraga</p>
+              <a href="<?= base_url('assets/front/img/gallery/futsal/futsal_5.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
               <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
             </div>
           </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bukber">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/bukber/bukber_1.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Bukber 1</h4>
+              <p>Kegiatan Sosial</p>
+              <a href="<?= base_url('assets/front/img/gallery/bukber/bukber_1.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bukber">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/bukber/bukber_2.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Bukber 2</h4>
+              <p>Kegiatan Sosial</p>
+              <a href="<?= base_url('assets/front/img/gallery/bukber/bukber_2.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bukber">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/bukber/bukber_3.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Bukber 3</h4>
+              <p>Kegiatan Sosial</p>
+              <a href="<?= base_url('assets/front/img/gallery/bukber/bukber_3.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bukber">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/bukber/bukber_4.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Bukber 4</h4>
+              <p>Kegiatan Sosial</p>
+              <a href="<?= base_url('assets/front/img/gallery/bukber/bukber_4.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-bukber">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/bukber/bukber_5.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Bukber 5</h4>
+              <p>Kegiatan Sosial</p>
+              <a href="<?= base_url('assets/front/img/gallery/bukber/bukber_5.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-team">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/team/team_1.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Team 1</h4>
+              <p>Kegiatan Sosial</p>
+              <a href="<?= base_url('assets/front/img/gallery/team/team_1.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-team">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/team/team_2.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Team 2</h4>
+              <p>Kegiatan Sosial</p>
+              <a href="<?= base_url('assets/front/img/gallery/team/team_2.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-team">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/team/team_3.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Team 3</h4>
+              <p>Kegiatan Sosial</p>
+              <a href="<?= base_url('assets/front/img/gallery/team/team_3.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-team">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/team/team_4.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Team 4</h4>
+              <p>Kegiatan Sosial</p>
+              <a href="<?= base_url('assets/front/img/gallery/team/team_4.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-team">
+            <div class="portfolio-img"><img src="<?= base_url('assets/front/img/gallery/team/team_5.jpg');?>" class="img-fluid" alt=""></div>
+            <div class="portfolio-info">
+              <h4>Team 5</h4>
+              <p>Kegiatan Sosial</p>
+              <a href="<?= base_url('assets/front/img/gallery/team/team_5.jpg');?>" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="App 3"><i class="bx bx-plus"></i></a>
+              <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+            </div>
+          </div>
+
+          
 
         </div>
-
       </div>
-    </section><!-- End Portfolio Section -->
-
-    <!-- ======= Frequently Asked Questions Section ======= -->
-    <section id="faq" class="faq section-bg">
-      <div class="container" data-aos="fade-up">
-        <div class="section-title">
-          <h2>Frequently Asked Questions</h2>
-        </div>
-
-        <div class="faq-list">
-          <ul>
-            <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
-                <p>
-                  Menawarkan harga barang yang terjangkau
-                </p>
-              </div>
-            </li>
-
-            <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
-                <p>
-                  Memiliki tanggung jawab yang tinggi terhadap kualitas barang.
-                </p>
-              </div>
-            </li>
-
-            <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
-                <p>
-                  Pelayanan yang tinggi terhadap customer jasa dan produk.
-                </p>
-              </div>
-            </li>
-
-            <li data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-              <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
-                <p>
-                  PT. Sri Intan Perkasa dilengkapi Dokumen Nasional penting seperti SIUP, TDP, NPWP, NIB, API, dan IPAK
-                </p>
-              </div>
-            </li>
-          </ul>
-        </div>
-
-      </div>
-    </section><!-- End Frequently Asked Questions Section -->
+    </section><!-- End Gallery Section -->
+    
+    
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
