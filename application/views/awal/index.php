@@ -47,7 +47,7 @@
           <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#Gallery">Gallery</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <!-- <li><a class="getstarted scrollto" href="login/index.html">Get Started</a></li> -->
+          <li><a class="getstarted scrollto" href="<?= base_url('login');?>">Login</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -62,8 +62,8 @@
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
           <h1>Better Responbility, Better Service and Better Partner</h1>
-          <h2>Kami perusahaan PT.Sri Intan Perkasa berdiri sejak tahun 1994, menjadi penyedia Alat kesehatan yang terpercaya dalam memberikan pelayanan, kenyamanan, kemudahan dan kualitas produk kepada seluruh klien kami.&nbsp;</h2>
-          <h2>Mari menjadi partner kami dan kami siap melayani anda dengan sepenuh hati </h2>
+          <h3>Kami perusahaan PT.Sri Intan Perkasa berdiri sejak tahun 1994, menjadi penyedia Alat kesehatan yang terpercaya dalam memberikan pelayanan, kenyamanan, kemudahan dan kualitas produk kepada seluruh klien kami.&nbsp;</h3>
+          <h3>Mari menjadi partner kami dan kami siap melayani anda dengan sepenuh hati </h3>
           
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started scrollto">Read more</a>
@@ -116,35 +116,33 @@
             <div class="row content">
               <div class="col-md-4">
                 <ul>
-                  <li><i class="ri-check-double-line"></i> alat radiologi mobile</li>
-                  <li><i class="ri-check-double-line"></i> alat radiologi stationery</li>
-                  <li><i class="ri-check-double-line"></i> dental xray</li>
+                  <li><i class="ri-check-double-line"></i> Alat Radiologi Mobile</li>
+                  <li><i class="ri-check-double-line"></i> Alat Radiologi Stationery</li>
+                  <li><i class="ri-check-double-line"></i> Dental Xray</li>
                   <li><i class="ri-check-double-line"></i> IPAL</li>
                   <li><i class="ri-check-double-line"></i> Incinerator</li>
-                  <li><i class="ri-check-double-line"></i> incubator</li>
-                  <li><i class="ri-check-double-line"></i> dan sebagainya</li>
-                  
+                  <li><i class="ri-check-double-line"></i> Incubator</li>
+                  <li><i class="ri-check-double-line"></i> Accessories Timbal</li>                  
                 </lu>
               </div>
               <div class="col-md-4">
                 <ul>
-                  <li><i class="ri-check-double-line"></i> accessories timbal</li>
-                  <li><i class="ri-check-double-line"></i> hospital furniture</li>
+                  <li><i class="ri-check-double-line"></i> Hospital Furniture</li>
                   <li><i class="ri-check-double-line"></i> CT-Scan</li>
                   <li><i class="ri-check-double-line"></i> Oxygen</li>
                   <li><i class="ri-check-double-line"></i> Ventilator x-ray</li>
                   <li><i class="ri-check-double-line"></i> Cairan x-ray</li>
-
+                  <li><i class="ri-check-double-line"></i> CR</li>
                 </lu>
               </div>
               <div class="col-md-4">
                 <ul>
-                  <li><i class="ri-check-double-line"></i> CR</li>
                   <li><i class="ri-check-double-line"></i> Laboratorium</li>
                   <li><i class="ri-check-double-line"></i> DR Film</li>
-                  <li><i class="ri-check-double-line"></i> uji kesesuaian</li>
-                  <li><i class="ri-check-double-line"></i> Karoseri bus/Ambulance</li>
-                  <li><i class="ri-check-double-line"></i> kalibrasi</li>
+                  <li><i class="ri-check-double-line"></i> Uji kesesuaian</li>
+                  <li><i class="ri-check-double-line"></i> Karoseri Bus/Ambulance</li>
+                  <li><i class="ri-check-double-line"></i> Kalibrasi</li>
+                  <li><i class="ri-check-double-line"></i> Dan Sebagainya</li>
                 </lu>
               </div>
             </div>
@@ -172,7 +170,7 @@
         <div class="section-title">
           <h2>Visi Misi</h2>
         </div>
-        <div class="row p-4">
+        <div class="row p-5">
           <div class="col-lg-6">
             <div class="member d-flex align-items-start just" data-aos="zoom-in" data-aos-delay="100">
               <div><h2>01</h2></div>
@@ -255,7 +253,7 @@
         <div class="row">
           <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <div class="icon" ><i class="bx bxl-dribbble"></i></div>
+              <div class="icon" ><i class='bx bx-purchase-tag-alt'></i></div>
                 <p id="why" >Menawarkan harga barang yang terjangkau</p>              
             </div>
           </div>
@@ -293,54 +291,54 @@
         <div class="section-title">
           <h2>Our Client</h2>
         </div>
-        <div class="row p-2 d-flex justify-content-center" style="gap: 1rem;">
+        <div class="row p-1 d-flex justify-content-center" style="gap: 1.75rem;">
 
-          <div class="card col-5 p-1 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="100">
+          <div class="card col-5 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="100">
             <div class="card-body">
               PT Kimia Farma Diagnostika
             </div>
           </div>
-          <div class="card col-5 p-1 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="300">
+          <div class="card col-5  shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="300">
             <div class="card-body">
               PT Tirta Medical Center
             </div>
           </div>
-          <div class="card col-5 p-1 shadow-sm card-client-border"data-aos="zoom-in" data-aos-delay="200">
+          <div class="card col-5  shadow-sm card-client-border"data-aos="zoom-in" data-aos-delay="200">
             <div class="card-body">
               RSUD dr Chasbullah Abdulmadjid Kota Bekasi
             </div>
           </div>
-          <div class="card col-5 p-1 shadow-sm card-client-border"data-aos="zoom-in" data-aos-delay="500">
+          <div class="card col-5  shadow-sm card-client-border"data-aos="zoom-in" data-aos-delay="500">
             <div class="card-body">
               Balai Kesehatan Kolinlamil Jakarta
             </div>
           </div>
-          <div class="card col-5 p-1 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="400">
+          <div class="card col-5  shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="400">
             <div class="card-body">
               UPTD Puskesmas Tarogong
             </div>
           </div>
-          <div class="card col-5 p-1 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="700">
+          <div class="card col-5  shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="700">
             <div class="card-body">
               RS Bunda Citra Harapan - Bekasi
             </div>
           </div>   
-          <div class="card col-5 p-1 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="600">
+          <div class="card col-5  shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="600">
             <div class="card-body">
               RS Izza - Karawang
             </div>
           </div>
-          <div class="card col-5 p-1 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="900">
+          <div class="card col-5  shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="900">
             <div class="card-body">
               RS Citra Sari Husada Group
             </div>
           </div>
-          <div class="card col-5 p-1 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="800">
+          <div class="card col-5  shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="800">
             <div class="card-body">
               RS Bayukarta
             </div>
           </div>
-          <div class="card col-5 p-1 shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="1000">
+          <div class="card col-5  shadow-sm card-client-border" data-aos="zoom-in" data-aos-delay="1000">
             <div class="card-body">
               RS Islam Karawang
             </div>
@@ -367,6 +365,8 @@
               <h5 class="card-title">PRS 500 E PROSLIDE</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501027458</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -377,6 +377,8 @@
               <h5 class="card-title">PROSLIDE 32 SR</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501120775</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -387,6 +389,8 @@
               <h5 class="card-title">EXM 40 - DDRIEST MEDCARE</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -397,6 +401,8 @@
               <h5 class="card-title">SMART 3D</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 20601220003</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -407,6 +413,8 @@
               <h5 class="card-title">PROSLIDE 32B</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501121865</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -417,6 +425,8 @@
               <h5 class="card-title">MARS 1717</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -427,6 +437,8 @@
               <h5 class="card-title">MARS_1417</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -437,6 +449,8 @@
               <h5 class="card-title">PLX 101C</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -447,6 +461,8 @@
               <h5 class="card-title">EST MEDCARE</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -457,6 +473,8 @@
               <h5 class="card-title">XRAY GRIDS</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -467,6 +485,8 @@
               <h5 class="card-title">PROTECTIVE CAP</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -477,6 +497,8 @@
               <h5 class="card-title">LEAD APRON PA SERIES</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -487,6 +509,8 @@
               <h5 class="card-title">THERMOLUMINESCENT DOSIMETER BARC</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -497,6 +521,8 @@
               <h5 class="card-title">XRAY PROTECTIVE GLASSES</h5>
               <p class="card-text">MOBILE DIGITAL X-RAY SYSTEM</p>
               <p class="card-text">AKL : 21501024999</p>
+            </div>
+            <div class="card-footer">
               <a href="#" class="btn btn-outline-primary d-flex justify-content-center">Lihat Detail</a>
             </div>
           </div>
@@ -509,7 +535,7 @@
     <section id="team" class="team ">
       <div class="container" data-aos="fade-up">
         <div class="section-title">
-          <h2>Team Jasa</h2>
+          <h2>Team Services</h2>
         </div>
         <div class="row">
           <div class="col-lg-6">
@@ -886,7 +912,7 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
-
+<!-- 
     <div class="footer-newsletter">
       <div class="container">
         <div class="row justify-content-center">
@@ -899,7 +925,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="footer-top">
       <div class="container">
@@ -935,10 +961,10 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#client">Client</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#product">Product</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#team">Team</a></li>
             </ul>
           </div>
 

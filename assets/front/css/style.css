@@ -176,6 +176,20 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 40px;
 }
 
+#product .btn-outline-primary {
+  color: #00b2df;
+  border-color: #00b2df;
+}
+#product .btn-outline-primary:hover {
+  color: #fff;
+  background-color: #00b2df;
+  border-color: #00b2df;
+}
+#product .card-footer{
+  padding: 1rem 1rem;
+  background-color: transparent;
+  border-top: none;
+}
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
@@ -225,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #e4e4e4;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
-  padding: 8px 20px;
+  padding: 6px 30px;
   margin-left: 30px;
   border-radius: 50px;
   color: #fff;
@@ -408,6 +422,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
   font-size: 24px;
 }
+
+#hero h3 {
+  color: #f9f9f9;
+  margin-bottom: 20px;
+  font-size: 18px;
+}
 #hero .btn-get-started {
   font-family: "Jost", sans-serif;
   font-weight: 500;
@@ -418,11 +438,11 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px 0 0 0;
-  color: #fff;
-  background: #47b2e4;
+  color: #00b2df;
+  background: #fff;
 }
 #hero .btn-get-started:hover {
-  background: #209dd8;
+  background: #fcebeb;
 }
 #hero .btn-watch-video {
   font-size: 16px;
@@ -1490,7 +1510,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   font-size: 14px;
-  background: #37517e;
+  background: #00b2df;
 }
 #footer .footer-newsletter {
   padding: 50px 0;
