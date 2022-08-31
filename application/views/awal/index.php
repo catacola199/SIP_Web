@@ -61,9 +61,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          <h1>Better Responbility, Better Service and Better Partner</h1>
-          <h3>Kami perusahaan PT.Sri Intan Perkasa berdiri sejak tahun 1994, menjadi penyedia Alat kesehatan yang terpercaya dalam memberikan pelayanan, kenyamanan, kemudahan dan kualitas produk kepada seluruh klien kami.&nbsp;</h3>
-          <h3>Mari menjadi partner kami dan kami siap melayani anda dengan sepenuh hati </h3>
+          <h1>Better Responbility <br>Better Service  <br> Better Partner</h1>
+          <h3>Kami perusahaan PT. Sri Intan Perkasa berdiri sejak tahun 1994, menjadi penyedia alat kesehatan yang terpercaya dalam memberikan pelayanan, kenyamanan, kemudahan dan kualitas produk kepada seluruh klien kami.&nbsp;</h3>
+          <h3>Mari menjadi partner kami dan kami siap melayani anda dengan sepenuh hati.</h3>
           
           <div class="d-flex justify-content-center justify-content-lg-start">
             <a href="#about" class="btn-get-started scrollto">Read more</a>
@@ -106,59 +106,66 @@
       <div class="container" data-aos="fade-up">
         <div class="section-title">
           <h2>About Us</h2>
-          <h3>Kami perusahaan PT.Sri Intan Perkasa berdiri sejak tahun 1994, di Jakarta, Indonesia. Kami telah menjadi raksasa sebagai penyedia alat kesehatan yang sangat terpecaya dalam memberikan pelayanan, kenyamanan, kemudahan dan kualitas produk terbaik kepada seluruh klien kami.</h3>
+          <h3>Kami perusahaan PT. Sri Intan Perkasa berdiri sejak tahun 1994, di Jakarta, Indonesia. Kami telah menjadi raksasa sebagai penyedia alat kesehatan yang sangat terpecaya dalam memberikan pelayanan, kenyamanan, kemudahan dan kualitas produk terbaik kepada seluruh klien kami.</h3>
         </div>
         <div class="row content">
-          <div class="col-lg-8">
-            <p>
-            PT.Sri Intan Perkasa mempunyai beberapa produk yaitu :
+          
+            <p class="d-flex justify-content-center">
+            PT. Sri Intan Perkasa mempunyai beberapa produk yaitu :
             </p>
             <div class="row content">
-              <div class="col-md-4">
+              <div class="col-md-3">
                 <ul>
                   <li><i class="ri-check-double-line"></i> Alat Radiologi Mobile</li>
                   <li><i class="ri-check-double-line"></i> Alat Radiologi Stationery</li>
-                  <li><i class="ri-check-double-line"></i> Dental Xray</li>
+                  <li><i class="ri-check-double-line"></i> Dental X-Ray</li>
                   <li><i class="ri-check-double-line"></i> IPAL</li>
                   <li><i class="ri-check-double-line"></i> Incinerator</li>
-                  <li><i class="ri-check-double-line"></i> Incubator</li>
-                  <li><i class="ri-check-double-line"></i> Accessories Timbal</li>                  
+                                    
                 </lu>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-3">
                 <ul>
                   <li><i class="ri-check-double-line"></i> Hospital Furniture</li>
                   <li><i class="ri-check-double-line"></i> CT-Scan</li>
                   <li><i class="ri-check-double-line"></i> Oxygen</li>
-                  <li><i class="ri-check-double-line"></i> Ventilator x-ray</li>
-                  <li><i class="ri-check-double-line"></i> Cairan x-ray</li>
+                  <li><i class="ri-check-double-line"></i> Ventilator X-Ray</li>
                   <li><i class="ri-check-double-line"></i> CR</li>
                 </lu>
               </div>
-              <div class="col-md-4">
+              <div class="col-md-3">
                 <ul>
-                  <li><i class="ri-check-double-line"></i> Laboratorium</li>
-                  <li><i class="ri-check-double-line"></i> DR Film</li>
                   <li><i class="ri-check-double-line"></i> Uji kesesuaian</li>
                   <li><i class="ri-check-double-line"></i> Karoseri Bus/Ambulance</li>
                   <li><i class="ri-check-double-line"></i> Kalibrasi</li>
+                  <li><i class="ri-check-double-line"></i> Cairan X-Ray</li>
+                  <li><i class="ri-check-double-line"></i> Accessories Timbal</li>
+                </lu>
+              </div>
+              <div class="col-md-3">
+                <ul>
+                  <li><i class="ri-check-double-line"></i> Laboratorium</li>
+                  <li><i class="ri-check-double-line"></i> DR Film</li>
+                  <li><i class="ri-check-double-line"></i> Incubator</li> 
                   <li><i class="ri-check-double-line"></i> Dan Sebagainya</li>
                 </lu>
               </div>
             </div>
-          </div>
-          <div class="col-lg-4 pt-4 pt-lg-0">
-            <p>
+
+          
+            <div class="row content">
+            <p class="d-flex justify-content-center">
             Kami telah terverifikasi oleh badan nasional terkait mutu perusahaan seperti :
             </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> ISO 9001</li>
-              <li><i class="ri-check-double-line"></i> ISO 14001</li>
-              <li><i class="ri-check-double-line"></i> ISO 45001</li>
-              <li><i class="ri-check-double-line"></i> KAN ISO 17025</li>
-            </lu>
-            <!-- <a href="#" class="btn-learn-more">Learn More</a> -->
-          </div>
+              <div class="d-flex justify-content-center" >
+                <ul >
+                  <li><i class="ri-check-double-line"></i> ISO 9001</li>
+                  <li><i class="ri-check-double-line"></i> ISO 14001</li>
+                  <li><i class="ri-check-double-line"></i> ISO 45001</li>
+                  <li><i class="ri-check-double-line"></i> KAN ISO 17025</li>
+                </lu>
+              </div>
+            </div>
         </div>
 
       </div>
@@ -187,7 +194,7 @@
               <div><h2>02</h4></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
-                  <h5>Memberikan pelayanan, kenyamanan dan kecepatan dalam pelayanan dan kualitas produk terbaik untuk seluruh klien/costumer PT.Sri Intan Perkasa.</h5>
+                  <h5>Memberikan pelayanan, kenyamanan dan kecepatan dalam pelayanan dan kualitas produk terbaik untuk seluruh klien atau costumer PT. Sri Intan Perkasa.</h5>
                 </div>
               </div>
             </div>
@@ -198,7 +205,7 @@
               <div><h2>03</h2></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
-                  <h5>Menjadi penyedia alat kesehatan yang tersebar dan terlengkap di Indonesia.</h5>
+                <h5>Menjadi persuahaan yang turut ikut aktif dalam melayani masyarakat meningkatkan standaritas personil internal maupun membangun negara.</h5>
                 </div>
               </div>
             </div>
@@ -209,7 +216,7 @@
               <div><h2>04</h2></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
-                  <h5>Mengkomunikasikan dan mengedukasikan terhadap pentingnya untuk memenuhi persyaratan di dalam peraturan perundangan, peraturan dibidang mutu maupun persyaratan peraturan dibilang lainnya.</h5>
+                  <h5>Mengkomunikasikan dan mengedukasikan terhadap pentingnya untuk memenuhi persyaratan di dalam peraturan perundangan, peraturan dibidang mutu maupun persyaratan peraturan dibidang lainnya.</h5>
                 </div>
               </div>
             </div>
@@ -231,7 +238,7 @@
               <div><h2>06</h2></div>
               <div class="member-info">
                 <div class="rata-kiri-kanan">
-                  <h5>Menjadi persuahaan yang turut ikut aktif dalam melayani masyarakat meningkatkan standaritas personil internal maupun membangun negara.</h5>
+                  <h5>Menjadi penyedia alat kesehatan yang tersebar dan terlengkap di Indonesia.</h5>    
                 </div>
               </div>
             </div>
