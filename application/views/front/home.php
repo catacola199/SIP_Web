@@ -2,7 +2,7 @@
     <div class="mt-4 jumbotron jumbotron-fluid shadow-lg">
         <div class="container">
             <div class="text-center">
-                <img src="<?= (empty($dataapp['logo_instansi'])) ? base_url('assets/img/clock-image.png') : (($dataapp['logo_instansi'] == 'default-logo.png') ? base_url('assets/img/clock-image.png') : base_url('storage/setting/' . $dataapp['logo_instansi'])); ?>" class="card-img" style="width:15%;">
+                <img src="<?= (empty($dataapp['logo_instansi'])) ? base_url('assets/img/logo_only.png') : (($dataapp['logo_instansi'] == 'default-logo.png') ? base_url('assets/img/logo_only.png') : base_url('storage/setting/' . $dataapp['logo_instansi'])); ?>" class="card-img" style="width:15%;">
                 <h1 class="display-5">
                     <?= (empty($dataapp['nama_instansi'])) ? '[Nama Instansi Belum Disetting]' : $dataapp['nama_instansi']; ?>
                 </h1>
