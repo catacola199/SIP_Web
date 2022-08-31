@@ -1,5 +1,5 @@
 <nav class="sb-topnav navbar navbar-expand sb-navbar-blue shadow-sm ">
-    <a class="navbar-brand truncate" href="<?= base_url(''); ?>"><?= $appname = (empty($dataapp['nama_app_absensi'])) ? 'Absensi Online' : $dataapp['nama_app_absensi']; ?></td></a><button class="btn btn-link btn-sm order-1 order-lg-0" id="sidebarToggle" href="#"><i class="fas fa-bars"></i></button><!-- Navbar Search-->
+    <a class="navbar-brand truncate" href="<?= base_url('home'); ?>"><?= $appname = (empty($dataapp['nama_app_absensi'])) ? 'Absensi Online' : $dataapp['nama_app_absensi']; ?></td></a><button class="btn btn-link btn-sm order-1 order-lg-0" id="sidebarToggle" href="#"><i class="fas fa-bars"></i></button><!-- Navbar Search-->
     <div class="navbar-nav mr-auto">
     </div>
     <!-- Navbar-->
